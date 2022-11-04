@@ -3,7 +3,7 @@ description: Simple video player built on top of the official Flutter package
   'video_player' that implements some capabilities to play a video from a raw
   byte stream using an HTTP server.
 version: 0.0.1
-homepage: null
+homepage: https://github.com/flrnsbt/sftp_video_player
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
